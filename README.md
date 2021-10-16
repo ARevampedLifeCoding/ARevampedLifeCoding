@@ -6,7 +6,7 @@
 
 
 - 🔭 Current focuses include: 
-- Expanding my JavaScript skillset
+- 💡 Expanding my JavaScript skillset
 - 🌱 Learning JavaScript Computer Science.
 - 👯 Collaborating with others to learn more together!
 - 🤔 Looking for help with Amazon Web Services
