@@ -15,7 +15,7 @@
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: I spent 2021 traveling the country with my family to expand our view of the world.
 
-### Langages
+### Languages 
 <div style="margin: 1em 0;">
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50" />
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" />
