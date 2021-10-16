@@ -5,7 +5,7 @@
 ### What I am working on! 👋
 
 
-- 🔭 Current focuses include: 
+- 🔬 Current focuses include: 
 - 💡 Expanding my JavaScript skillset
 - 🌱 Learning JavaScript Computer Science.
 - 👯 Collaborating with others to learn more together!
