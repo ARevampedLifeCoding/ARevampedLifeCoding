@@ -1,5 +1,5 @@
 
-![alt text](https://drive.google.com/file/d/19U0FKnsTH38wwC57cZPWHek9KmQfLkff/view?usp=sharing)
+![Computer img name Randy Langston](https://www.canva.com/design/DAEs_qE3Klw/share/preview?token=QDBNuinVXpte5Ou43v729g&role=EDITOR&utm_content=DAEs_qE3Klw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ### What I am working on! 👋
 
