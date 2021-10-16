@@ -1,5 +1,6 @@
+![Randy Langston](https://user-images.githubusercontent.com/83686830/137592107-081f8785-c7c1-4200-806b-da665687177b.png)
 
-![Computer img name Randy Langston](https://drive.google.com/file/d/19U0FKnsTH38wwC57cZPWHek9KmQfLkff/view?usp=sharing)
+
 
 ### What I am working on! 👋
 
