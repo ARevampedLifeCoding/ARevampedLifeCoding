@@ -14,7 +14,7 @@
 - 📫  How to reach me: arevampedlifecoding@gmail.com
 - 👨  Pronouns: HE/Him
 - 🌎  Fun fact: I spent 2021 traveling the country with my family to expand our view of the world.
-- ![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARevampedLifeCoding&show_icons=true&theme=merko)
+
 
 ### Languages 
 <div style="margin: 1em 0;">
@@ -25,3 +25,5 @@
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" />
 </div>
+
+![Randy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARevampedLifeCoding&show_icons=true&theme=merko)
